@@ -1,15 +1,35 @@
 Assalamualaimum wr wb
 saya Muhammad ilham iskandar 
 
+akan mempresentasikan aplikasi yang telah saya kerjakan setelah saya melakukan kegiatan PKL di PT
+yaitu aplikasi database game berbasis web
+
 sebelum menjelaskan aplikasi yang saya buat, ada beberapa latar belakang kenapa saya memilih judul aplikasi ini
-pertama, indonesia merupakan salah satu negara yang memiliki jumlah pemain video game terbanyak
-namun
+pertama, Belum banyak website database game yang terkenal di Indonesia, walaupun menurut laporan april global statshot 2022, 
+indonesia menduduki peringkat kedua yang masuk ke dalam pengguna internet yang paling banyak bermain video game.
+kedua, Memperkenalkan aplikasi database game, 
+yaitu aplikasi yang memuat berbagai informasi mengenai game jugaa memperkenalkan bagaimana pengembangan dan industri dunia game
+kepada orang yang hobi bermain game
+ketiga, saya ingin Membuat solusi untuk orang-orang yang mencari informasi mengenai data game
+
+dalam pengembangan aplikasi ini, ada beberapa batasan masalah yang diterapkan:
 
 diagram usecase merupakn gambaran interaksi apa saja yang dapat dilakukan aktor terhadap sistem
+aktor yang pertama ada pengunjung web
+pengunjung web dapat melihat detail dari data game dengan melakukan pencarian.
+pengunjung web dapat melakukan registrasi akun untuk menjadi admin.
+aktor yang kedua ada admin
+setelah melakukan registrasi akun, admin dapat masuk melakukan pengolahan data seperti menambah, mengubah, dan menghapus data dari game, genre, dan publisher
 
 perancangan yang ke dua yaitu pembuatan diagram class, diagram class menunjukan struktur dari model apa saja yang akan dimiliki oleh aplikasi
 model atau class tersebut memiliki nama kelas, atribut, metode, dan hubungan antar objek.
 
-admin di sini merupakan penurunan dari pengguna, admin dapat mencari data game, lalu melakukan pengolahan pada data game, genre, dan publisher
+admin merupakan penurunan dari pengguna yang dapat melakukan pencarian data game, admin dapat melakukan login dan logout, juga melakukan pengolahan pada data game, genre, dan publisher
+
+tahap perancangan selanjutnya yaitu pembuatan diagram activity
+diagram activity merupakan runtutan proses yang terdapat dalam sistem
+pengunjung website dapat melihat detail data game dengan memilih data pada homepage,
+atau mencari mencari data menggunakan nama game, oengunjung memasukan kata kunci pada kolom pencarian,
+lalu sistem akan mencari data game dengan nama yang mirip dengan kata kunci
 
 
