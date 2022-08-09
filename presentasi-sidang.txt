@@ -3,4 +3,13 @@ saya Muhammad ilham iskandar
 
 sebelum menjelaskan aplikasi yang saya buat, ada beberapa latar belakang kenapa saya memilih judul aplikasi ini
 pertama, indonesia merupakan salah satu negara yang memiliki jumlah pemain video game terbanyak
-namu
+namun
+
+diagram usecase merupakn gambaran interaksi apa saja yang dapat dilakukan aktor terhadap sistem
+
+perancangan yang ke dua yaitu pembuatan diagram class, diagram class menunjukan struktur dari model apa saja yang akan dimiliki oleh aplikasi
+model atau class tersebut memiliki nama kelas, atribut, metode, dan hubungan antar objek.
+
+admin di sini merupakan penurunan dari pengguna, admin dapat mencari data game, lalu melakukan pengolahan pada data game, genre, dan publisher
+
+
