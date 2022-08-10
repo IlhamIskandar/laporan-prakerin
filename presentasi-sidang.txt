@@ -17,7 +17,7 @@ dalam pengembangan aplikasi ini, ada beberapa batasan masalah yang diterapkan:
 diagram usecase merupakn gambaran interaksi apa saja yang dapat dilakukan aktor terhadap sistem
 aktor yang pertama ada pengunjung web
 pengunjung web dapat melihat detail dari data game dengan melakukan pencarian.
-pengunjung web dapat melakukan registrasi akun untuk menjadi admin.
+pengunjung web dapat melakukan registrasi akun untuk mendaftar sebagai admin.
 aktor yang kedua ada admin
 setelah melakukan registrasi akun, admin dapat masuk melakukan pengolahan data seperti menambah, mengubah, dan menghapus data dari game, genre, dan publisher
 
